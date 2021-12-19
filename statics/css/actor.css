@@ -1,0 +1,21 @@
+.actor_cover{
+    padding-top: 100% !important;
+    border-radius: 100%;
+    border: 1px solid #e5e5e5;
+}
+.actor_pic img{
+    height: 140% !important;
+}
+.actor_centent,.actor_item{
+        text-align: center !important;
+}
+.actor_items{
+    width: 40%;
+    float: left;
+}
+@media (max-width: 559px){
+    .actor_items{width: 50%;}
+}
+.actor_itemtitle{
+    min-width:70px;
+}
