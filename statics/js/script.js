@@ -166,4 +166,3 @@ $(function(){
 	}
 
 
-console.log("\n %c 请勿盗用，购买联系：2745661980 %c","color: #fadfa3; background: #030307; padding:5px 0;","background: #fadfa3; padding:5px 0;")
